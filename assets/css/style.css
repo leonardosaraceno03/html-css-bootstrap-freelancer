@@ -1,0 +1,16 @@
+.bg-blue{
+    background-color: blue;
+}
+.bg-red{
+    background-color: red;
+}
+.bg-green{
+    background-color: green;
+}
+.linea{
+    border-bottom: 2px solid black;
+}
+.img{
+    width: 100%;
+    border-radius: 20px;
+}
