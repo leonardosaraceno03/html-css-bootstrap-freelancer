@@ -1,16 +1,32 @@
 .bg-blue{
-    background-color: blue;
+    background-color: rgb(44, 62, 80);
+}
+.bg-lightblue{
+    background-color: rgb(58, 84, 109);
+}
+.bg-darkblue{
+    background-color: rgb(44, 62, 80);
+}
+.white{
+    color: white;
 }
 .bg-red{
     background-color: red;
 }
 .bg-green{
-    background-color: green;
+    background-color: rgb(28, 188, 156);
 }
 .linea{
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid;
 }
 .img{
     width: 100%;
     border-radius: 20px;
+}
+.navbar-collapse{
+    flex-grow: 0;
+    
+}
+.w-60{
+    width: 60%;
 }
